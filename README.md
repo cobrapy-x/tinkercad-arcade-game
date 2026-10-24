@@ -378,8 +378,8 @@ Subtracting the 67.5 ms infrared delay leaves 1.75 s of genuine reaction time at
 
 | Version | Boards | Input | Notes |
 |---|---|---|---|
-| v1 | 3 | Two pushbuttons on a dedicated input board | Tagged release, original three-board architecture |
-| v2 | 2 | IR remote direct to the game logic board | This version. Adds pause and a dedicated start button. |
+| v1 | 3 | Two pushbuttons on a dedicated input board |  Original three-board architecture |
+| v2 | 2 | IR remote direct to the game logic board |  Adds pause and a dedicated start button. |
 
 ---
 
